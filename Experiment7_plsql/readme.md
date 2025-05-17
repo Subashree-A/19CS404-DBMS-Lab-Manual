@@ -1,5 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## Name: Subashree A
+## Reg.no:212222020029
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
