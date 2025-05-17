@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
-## Name: Prasanna R
-## Reg.no:212222040120
+## Name: Subashree A
+## Reg.no:212222020029
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
