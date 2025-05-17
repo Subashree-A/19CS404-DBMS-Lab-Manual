@@ -1,4 +1,5 @@
-# ExperimSubashree A
+# Experiment 6: Joins
+# Name:Subashree A
 ## Reg.no:212222020029
 ## AIM
 To study and implement different types of joins.
